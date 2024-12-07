@@ -52,4 +52,41 @@ To set up and run this project, you need:
 2. Ensure the server.py and client.py scripts are in the same directory
 3. Obtain a NewsAPI key from NewsAPI and replace the API_KEY in the server.py script.
 
+
+## How to Run the System
+### Running the Server
+Open a terminal and navigate to the project directory.
+Start the server:
+``` bash
+python server.py
+```
+### Running the Client
+Open another terminal and navigate to the project directory.
+Start the client:
+``` bash
+python client.py
+```
+### Follow the interactive prompts to:
+Search headlines by keyword, category, or country.
+View available sources by filters (category, country, language).
+This will automatically save results to JSON files.
 ![image](https://github.com/user-attachments/assets/7f09d189-7cc3-4692-a7df-05cab1e2ad52)
+
+
+## The Scripts
+`server.py`
+### Purpose: Implements a multithreaded server that handles multiple client connections and fetches news from NewsAPI.
+Key Functions:
+1. fetch_data: Retrieves data from the NewsAPI based on client requests.
+2. handle_client: Manages client connections and processes requests.
+3. start_server: Initializes the server and listens for connections.
+
+`client.py`
+### Purpose: Provides an interactive interface for users to connect to the server and request news data.
+Key Functions:
+1. receive_message: Receives data from the server.
+2. send_message: Sends data to the server.
+3. handle_server_communication: Handles client-server interactions.
+
+## Acknowledgments
+NewsAPI: For providing the news data.
