@@ -5,7 +5,7 @@ import json
 
 SERVER_HOST = '127.0.0.1'
 SERVER_PORT = 12345
-API_KEY = '392f07995d1647219aba47100df38789'
+API_KEY = '9d9b66c1e4e04b8a85656fae87e7f1b1'
 
 def fetch_data(request_type, filters=None):
     url = "https://newsapi.org/v2/"
