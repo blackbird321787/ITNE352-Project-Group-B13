@@ -11,13 +11,13 @@ Fall 2024
 
 ## Group
 - **Group Name:** B13
-- **Course Code:** ITCE 320
-- **Section:** S1
+- **Course Code:** ITNE 352
+- **Section:** S2
 - **Students:**
   - **Student Name:** Sarah Khalid Ahmed
-  - **Student ID:** 
+  - **Student ID:** 202102356
   - **Student Name:** Rawan Mohamed Saleh
-  - **Student ID:** 
+  - **Student ID:** 202109367
 
 ---
 
