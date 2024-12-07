@@ -46,7 +46,6 @@ To set up and run this project, you need:
 2. Install required libraries by running:
    ```bash
    pip install requests
-```
 
 ### Development Environment Setup
 1. Clone or download the project repository.
