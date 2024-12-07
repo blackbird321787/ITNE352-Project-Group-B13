@@ -25,10 +25,7 @@ Fall 2024
 1. [Requirements](#requirements)
 2. [How to Run the System](#how-to-run-the-system)
 3. [The Scripts](#the-scripts)
-4. [Additional Concepts](#additional-concepts)
-5. [Acknowledgments](#acknowledgments)
-6. [Conclusion](#conclusion)
-7. [Resources](#resources-optional)
+4. [Acknowledgments](#acknowledgments)
 
 ---
 
